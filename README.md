@@ -4,8 +4,6 @@ writeUp is a Electron based decentralized note-taking application for the web an
 
 writeUp uses IPFS to store your notes securely, offering you a seamless experience at 0 cost.
 
-Find our quick demo of the MVP here - https://youtu.be/JmC5LI6a8zs
-
 ---
 
 ### Setup
