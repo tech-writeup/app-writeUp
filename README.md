@@ -25,3 +25,5 @@ _Release_
 1. `npm run build` - Build the client
 2. `npm i -g serve` - Install the `serve` package executable
 3. `serve -s build` - Run the production build
+
+Inspired By & Forked to Solana from - https://github.com/jotterdapp/jotter
